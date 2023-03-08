@@ -11,7 +11,3 @@ draw on frame lines with labels onto identified objects. The image with frame li
 #### System will maintain false positive below the rate of 15%
 
 #### Product will be delivered by the end of MAY 2023
-
-#### The system shall be developed with prouction budget of $800
-
-#### The system will show the current location of the device places
